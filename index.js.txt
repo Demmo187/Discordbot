@@ -45,4 +45,5 @@ client.on(Events.ThreadCreate, async (thread) => {
   // kurze Verzögerung, damit die Startnachricht existiert
   setTimeout(() => ensureHeart(thread), 1000);
 });
-client.login("MTQ1ODAzNDMwOTU2NTc4MDA1MQ.GE3rdq.ZQwZaP-Rh0xgJPtKJ0xsCV31lZwMaqJA_p_G2g");
+
+client.login("MTQ1ODAzNDMwOTU2NTc4MDA1MQ.G4-ime.j98o4eYzRf8sG7UwIr4aQaozDkSiwpRGwHtgkw");
